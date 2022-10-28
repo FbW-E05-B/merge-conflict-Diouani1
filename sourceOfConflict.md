@@ -2,10 +2,10 @@
 
 # HEADER
 
-- List
-- of
-- five
-- bullet
-- points
+1. List
+1. of
+1. five
+1. number
+1. points
 
-<p> There <span>is a bug</span> in this file</p>
+<p> There is no bug in this file</p>
